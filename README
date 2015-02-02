@@ -1,0 +1,17 @@
+This is a README file for the Calculator application.
+Created by JoshDeremer
+
+Summary
+This application is meant to be a basic calculator. The app has a GUI
+that contains three text boxes as well as the four common operatorions: 
+addition (Sum), subtraction (Subtract), multiplication (Multiply), and 
+division (divide).The text boxes are labeled as "Number 1", "Number 2",
+and "Result".
+
+Usage
+The user can input the desired numbers for calculation in the first two
+textboxes. When one of the four buttons are pressed, the "Result" textbox
+populates with the result of the operation.
+
+About
+This application is written in Java using the NetBeans IDE.
