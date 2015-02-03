@@ -6,13 +6,13 @@
 
 package calculator;
 
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
 /**
  *
  * @author Josh
  */
-
-import java.rmi.Remote;
-import java.rmi.RemoteException;
 
 public interface CalculatorInterface {
     public int add(int a,int b) throws RemoteException;
