@@ -9,6 +9,17 @@ package calculator;
 /**
  *
  * @author Josh
+ * This is the main class in the Calculator program. This class will set up a frame and populate
+ * the frame with buttons, labels and text fields.
+ * In addition, a CalculatorClass object is created to run the calculations through. When an action
+ * occurs, the source of the action is determined and an appropriate response to the action is
+ * executed.
+ * 
+ * This class extends the frame class to take advantage of the GUI capabilities of frame. In 
+ * addition, the ActionListener interface is implemented to allow for button clicks to become
+ * events.
+ * 
+ * Created by JoshDeremer
  */
 
 import java.awt.*;
