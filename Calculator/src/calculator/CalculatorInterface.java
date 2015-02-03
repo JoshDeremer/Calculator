@@ -12,6 +12,12 @@ import java.rmi.RemoteException;
 /**
  *
  * @author Josh
+ * 
+ * This is a basic interface for a calculator. It requires the four basic operations to 
+ * be implemented by the classes that will extend this interface: addition, subtraction,
+ * multiplication and division.
+ * 
+ * Created by JoshDeremer
  */
 
 public interface CalculatorInterface {
